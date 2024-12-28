@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ANJII</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **students_data**
+- 🔭 I’m currently working on **BAKING MANAGEMENT SYSTEM**
 
 - 📫 How to reach me **anjijanigorla@gmail.com**
 
