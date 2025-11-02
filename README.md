@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ANJII</h1>
+<h1 align="center">Hi 👋, I'm ANJANEYULU</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **REST API's**
+- 🔭 I’m currently working on **REST API's **
 
 - 📫 How to reach me **anjaneyulujanigorla68@gmail.com**
 
